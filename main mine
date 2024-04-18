@@ -1,0 +1,10 @@
+def validate (block_data):
+  
+  result= ""
+if (it's a bomb):
+  result = "it's a bomb"
+loop:
+    result = "Valid"
+    or
+    result = "Invalid"
+return result
